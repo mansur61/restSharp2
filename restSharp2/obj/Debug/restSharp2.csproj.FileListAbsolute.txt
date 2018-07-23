@@ -1,0 +1,12 @@
+c:\users\kaya61\documents\visual studio 2015\Projects\restSharp2\restSharp2\bin\Debug\restSharp2.exe.config
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\bin\Debug\restSharp2.exe
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\bin\Debug\restSharp2.pdb
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\bin\Debug\RestSharp.dll
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\obj\Debug\restSharp2.csprojResolveAssemblyReference.cache
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\obj\Debug\restSharp2.Form1.resources
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\obj\Debug\restSharp2.Properties.Resources.resources
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\obj\Debug\restSharp2.csproj.GenerateResource.Cache
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\obj\Debug\restSharp2.exe
+C:\Users\Kaya61\Documents\Visual Studio 2015\Projects\restSharp2\restSharp2\obj\Debug\restSharp2.pdb
